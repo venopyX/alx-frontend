@@ -1,2 +1,1 @@
-# alx-frontend
-# ALX Frontend Course
+# 0x00-html_advanced
